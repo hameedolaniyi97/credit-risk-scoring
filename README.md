@@ -3,7 +3,7 @@
 An end-to-end machine learning project that scores loan applicants on
 probability of default and explains every decision using SHAP.
 
-**Live demo:** [add your Streamlit URL after deployment]
+**Live demo:** https://credit-risk-scoring-databoy.streamlit.app
 
 ## What it does
 
