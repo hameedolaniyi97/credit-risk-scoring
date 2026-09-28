@@ -33,7 +33,7 @@ credit_risk_scoring/
  bash
 python -m venv .venv
 .venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r requirements-dev.txt
 
 python src/models/train_final.py
 python src/evaluation/find_threshold.py
